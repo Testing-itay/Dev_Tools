@@ -1,0 +1,13 @@
+[settings]
+model = "o3"
+temperature = 0.7
+
+[Plugins]
+code-formatter = true
+dependency-checker = false
+auto-commit = true
+spell-checker = false
+type-checker = true
+
+[prompts]
+system = "You are a helpful coding assistant"

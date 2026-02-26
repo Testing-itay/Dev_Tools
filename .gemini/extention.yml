@@ -1,0 +1,7 @@
+extentions:
+  - name: code-completion
+    enable: true
+  - name: test-assistant
+    enable: false
+  - name: performance-profiler
+    enable: true

@@ -1,0 +1,9 @@
+You are working on an AI Agents Demo project written in Python.
+
+Project conventions:
+- Use type hints on all function signatures
+- Follow PEP 8 style guidelines
+- Prefer composition over inheritance
+- Write docstrings for all public functions
+- Keep functions under 30 lines
+- Use logging instead of print statements

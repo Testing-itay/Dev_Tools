@@ -1,0 +1,13 @@
+{
+  "model": "claude-4-sonnet",
+  "permissions": {
+    "allow_edit": true,
+    "allow_create": true,
+    "allow_delete": false,
+    "allow_execute": true
+  },
+  "context": {
+    "max_tokens": 150000,
+    "include_git_history": true
+  }
+}

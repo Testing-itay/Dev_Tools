@@ -1,0 +1,11 @@
+# Paths excluded from AI analysis
+.env
+.env.*
+*.secret
+credentials/
+node_modules/
+__pycache__/
+*.pyc
+dist/
+build/
+.git/

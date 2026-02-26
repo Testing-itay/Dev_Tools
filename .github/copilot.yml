@@ -1,0 +1,14 @@
+github_copilot:
+  content_suggestions:
+    enabled: true
+    languages:
+      python: true
+      javascript: true
+      typescript: true
+      yaml: false
+  chat:
+    enabled: true
+    model: gpt-4
+  pull_request:
+    auto_review: true
+    summary: true

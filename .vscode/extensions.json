@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    { "name": "ms-python.python", "enable": true },
+    { "name": "dbaeumer.vscode-eslint", "enable": true },
+    { "name": "esbenp.prettier-vscode", "enabled": false },
+    { "name": "ms-vscode.cpptools", "enable": true }
+  ]
+}

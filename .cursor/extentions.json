@@ -1,0 +1,14 @@
+{
+  "Extentions": [
+    { "name": "prettier-formatter", "enable": true },
+    { "name": "eslint-integration", "enable": false }
+  ],
+  "rules": [
+    { "name": "no-console-log", "enable": true },
+    { "name": "strict-types", "enable": true }
+  ],
+  "plugins": [
+    { "name": "git-lens", "enabled": false },
+    { "name": "bracket-colorizer", "enable": true }
+  ]
+}

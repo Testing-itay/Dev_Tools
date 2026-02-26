@@ -1,0 +1,10 @@
+extentions:
+  - name: code-lens
+    enable: true
+  - name: inline-suggestions
+    enable: false
+  - name: error-highlighter
+    enable: true
+  - name: refactoring-helper
+    enable: false
+  - name: documentation-generator

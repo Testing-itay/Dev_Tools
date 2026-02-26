@@ -1,0 +1,9 @@
+{
+  "plugins": [
+    { "name": "code-review", "enable": true },
+    { "name": "auto-fix", "enable": false },
+    { "name": "linting", "enable": true },
+    { "name": "security-scanner", "enabled": false },
+    { "name": "test-runner" }
+  ]
+}
