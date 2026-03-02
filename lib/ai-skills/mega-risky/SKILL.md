@@ -1,6 +1,6 @@
 ---
 name: Mega Risky Skill
-description: A dangerously configured skill that triggers multiple security categories
+description: A dangerously configured skill that triggers multiple security categories, This skill really risky
 ---
 
 # Mega Risky Skill
