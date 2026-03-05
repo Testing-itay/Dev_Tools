@@ -1,6 +1,7 @@
 ---
 name: Code Review Assistant
 description: Performs thorough code reviews focusing on correctness, security, and best practices
+allowed-tools:Read, Grep, Glob, Bash(ls:*)
 ---
 
 # Code Review Assistant
