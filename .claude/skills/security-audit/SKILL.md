@@ -1,6 +1,7 @@
 ---
 name: Security Audit
 description: Scans code for vulnerabilities, injection risks, and insecure patterns
+allowed-tools: [read_file, search_code, list_directory, dependency_scan, secret_detection, sast_scan]
 ---
 
 # Security Audit
